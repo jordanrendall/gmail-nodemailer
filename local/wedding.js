@@ -2,7 +2,7 @@
 const emailFancyFrom = `The Bride and Groom ❤️`;
 let emailList = [`x@gmail.com`];
 const emailSubject = `Our Wedding 💍`;
-const emailPlainText = `Please RSVP to our Wedding!`;
+const emailPlainText = `Please RSVP to our Wedding`;
 const emailHTML = `
 <h1>💍 Wedding RSVP</h1>
 <p>Hello ${emailList[0]}!</p>

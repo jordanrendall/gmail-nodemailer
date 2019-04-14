@@ -24,6 +24,10 @@ Login to [Google API Console](https://console.developer.google.com) to:
 
 `html` : Can be any valid HTML code
 
+## Message template storage
+
+Create a folder called `local` and add your email template files, following the `./examples/wedding.js` file format;
+
 ## `--Use` Parameter
 
 Call `node app.js --use <messageName>` to look in `./local/` for `messageName.js` in order to construct the message.

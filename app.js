@@ -60,5 +60,6 @@ transporter.sendMail(message, (error, response) => {
   if (error) {
     return;
   }
+  console.log(response);
   transporter.close();
 });

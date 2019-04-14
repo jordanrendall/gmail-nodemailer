@@ -26,7 +26,7 @@ Login to [Google API Console](https://console.developer.google.com) to:
 
 ## `--Use` Parameter
 
-Call `node app.js --use \<messageName\>` to look in `./local/` for `messageName.js` in order to construct the message.
+Call `node app.js --use <messageName>` to look in `./local/` for `messageName.js` in order to construct the message.
 
 See `./examples/wedding.js` for help in constructing the email message.
 

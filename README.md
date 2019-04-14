@@ -14,7 +14,7 @@ Login to [Google API Console](https://console.developer.google.com) to:
 
 ## Message Parameters
 
-`from` : Can include custom coded text with emojis 😃, just be sure to follow the following format: `from` : \`Cool text 😎 <myemail@gmail.com>\`
+`from` : Can include custom coded text with emojis 😃, just be sure to follow the following format: `from` : \`Cool text 😎 \<myemail@gmail.com\>\`
 
 `to` : should be a list of emails separated by commas (or a single email address)
 

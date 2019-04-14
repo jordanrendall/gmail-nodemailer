@@ -8,7 +8,7 @@ Login to [Google API Console](https://console.developer.google.com) to:
 2. Enable Gmail API
 3. Create OAuth2 Client Credentials
 4. Use [Google OAuth2 Playground](https://developers.google.com/oauthplayground) to create refresh token
-5. Save Client ID, Client Secret and Refresh Token as
+5. Save Client ID, Client Secret and Refresh Token into the respective .env file parameters
 
 ## Message Parameters
 

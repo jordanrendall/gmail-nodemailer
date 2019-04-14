@@ -10,6 +10,8 @@ Login to [Google API Console](https://console.developer.google.com) to:
 4. Use [Google OAuth2 Playground](https://developers.google.com/oauthplayground) to create refresh token
 5. Save Client ID, Client Secret and Refresh Token into the respective .env file parameters
 
+(See [this tutorial](https://medium.com/@nickroach_50526/sending-emails-with-node-js-using-smtp-gmail-and-oauth2-316fe9c790a1) for help with the above.)
+
 ## Message Parameters
 
 `from` : Can include custom coded text with emojis 😃, just be sure to follow the following format: `from` : `Cool text 😎 <myemail@gmail.com>`
